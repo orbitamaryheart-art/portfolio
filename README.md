@@ -1,10 +1,6 @@
 # mary heart orbita
 
 
-Here's a description you can use for your HTML portfolio:
-
----
-
 **Mary Heart Orbita — Digital Portfolio**
 
 A clean, modern personal portfolio website for Mary Heart Orbita, a 4th-year BSIT student at Cebu Eastern College. The site presents her academic journey, growing technical skills, and creative projects through an elegant single-page layout.
